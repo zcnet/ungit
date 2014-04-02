@@ -66,7 +66,6 @@ var defaultConfig = {
 
   // Restrict to Directory
   restrictToDirectory: undefined,
-
   // Specify a custom command to launch. `%U` will be replaced with the URL
   //  that corresponds with the working git directory.
   //
